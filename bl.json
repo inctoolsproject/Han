@@ -1,0 +1,9 @@
+{
+    "commentOn":false, 
+    "commentBlack":{}, 
+    "wblack":false,
+    "dblack":false, 
+    "blacklist":{}, 
+    "wblacklist":false,
+    "dblacklist":false
+}
